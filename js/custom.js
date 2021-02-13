@@ -31,11 +31,11 @@
     // ABOUT SLIDER
     $('.owl-carousel').owlCarousel({
       animateOut: 'fadeOut',
-      items: 1,
+      items: 4,
       loop: true,
       autoplayHoverPause: false,
       autoplay: true,
-      smartSpeed: 1000,
+      smartSpeed: 3000,
     });
 
 
